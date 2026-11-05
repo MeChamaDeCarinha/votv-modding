@@ -1,0 +1,32 @@
+# Unreal Engine 4.27 project (generated / local-only)
+**/Binaries/
+**/Build/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Plugins/*/Binaries/
+**/Plugins/*/Intermediate/
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+
+# Packaging output (published to Thunderstore, not committed)
+Output/
+*.pak
+*.utoc
+*.ucas
+dist/
+*.zip
+
+# Claude Code personal files
+CLAUDE.local.md
+.claude/settings.local.json
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
